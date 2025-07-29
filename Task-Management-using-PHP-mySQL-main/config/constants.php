@@ -11,3 +11,5 @@
     define('SITEURL', 'http://localhost:81/task-manager/');
 
 ?>
+
+https://docs.google.com/document/d/1z2mjfpUlk05kB5TSWydeDsjtHnvzh8b0NCVLXS70-Ps/edit?pli=1&addon_store&tab=t.0
